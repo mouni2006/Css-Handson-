@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+        <h1 id="TitleName">The Marvel universe</h1>
+        <h2 id="popularHeros">POPULAR SUPER HEROS</h2>
+        <img id="superHeros1" src="https://www.hollywoodinsider.com/wp-content/uploads/2020/08/Hollywood-Insider-Marvel-Cinematic-Universe-Success.jpg" alt="">
+        <p id="superHerosName1">Ironman</p>
+        <img id="superHeros2" src="https://static.wikia.nocookie.net/spiderman-films/images/e/eb/Spider-Man_-_Profile_Pic.png" width="500" height="400" alt="">
+        <p id="superHerosName2">Spiderman</p>
+        <h2 id="popularVillains">POPULAR SUPER villains</h2>
+        <img id="superVillain1" src="https://static.onecms.io/wp-content/uploads/sites/6/2013/10/loki-poster.jpg"width="600" height="300" alt="">w
+        <p id="superVillainName1">LOKI</p>
+        <img id="superVillain2" src="https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/2346/1282346-h-8c87211478c3" alt="">
+        <p id="superVillainName2">Venom</p> 
+</body>
+</html>
+
+
+
+    
